@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Rubik';
+  src: url-loader('Rubik-Light.ttf');
+  src: url-loader('rubik-regular-webfont.ttf');
+  src: url-loader('Rubik-Medium.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DigifaceWide';
+  src: url-loader('digifaw.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
